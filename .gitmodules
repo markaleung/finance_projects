@@ -1,0 +1,9 @@
+[submodule "valuation_nyu"]
+	path = valuation_nyu
+	url = https://github.com/markaleung/valuation_nyu.git
+[submodule "investment"]
+	path = investment
+	url = https://github.com/markaleung/investment.git
+[submodule "actuary-simulation"]
+	path = actuary-simulation
+	url = https://github.com/markaleung/actuary-simulation.git
